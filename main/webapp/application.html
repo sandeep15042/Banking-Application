@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<style type="text/css">
+#center {
+	align-items: center;
+	display: flex;
+	justify-content: center;
+	background-color: yellow;
+	padding: 40px;
+	border-width: 3px;
+}
+
+#de {
+	background-color: cyan;
+}
+
+.t {
+	background-color: pink;
+}
+
+table {
+	background-color: green;
+	border-style: solid;
+	border: "200";
+	width: 300px;
+	height: 150px;
+	color: red;
+}
+</style>
+</head>
+<body id="center">
+	<form action="app" method="post">
+		<table>
+			<caption>
+				<b><i>Choose Your Option</i></b>
+			</caption>
+			<tr>
+				<td><center>
+						<input style="width: 100px;" id="de" type="submit" value="Deposit"
+							name="option">
+					</center></td>
+			</tr>
+			<tr>
+				<td><center>
+						<input style="width: 100px;" class="t" type="submit"
+							value="TransferMoney" name="option">
+					</center></td>
+			</tr>
+		</table>
+	</form>
+</body>
+</html>
