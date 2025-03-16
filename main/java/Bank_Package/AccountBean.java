@@ -4,12 +4,12 @@ public class AccountBean {
      private long accno;
      private String accountholdername;
      private double balance;
-//	public AccontBean(long accno, String accountholdername, double balance) {
-//		super();
-//		this.accno = accno;
-//		this.accountholdername = accountholdername;
-//		this.balance = balance;
-//	}
+	public AccontBean(long accno, String accountholdername, double balance) {
+		super();
+		this.accno = accno;
+		this.accountholdername = accountholdername;
+		this.balance = balance;
+	}
 	public long getAccno() {
 		return accno;
 	}
