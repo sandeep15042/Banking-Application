@@ -16,6 +16,7 @@ The application provides functionalities for user registration, login, account m
 
 ### Backend<br>
 - Java 17+<br>
+- Java Servlets<br>
 - Oracle Database (ojdbc8 driver)<br>
 
 ### Frontend<br>
