@@ -25,7 +25,7 @@ The application provides functionalities for user registration, login, account m
 - JavaScript (Form validations, dynamic UI interactions)<br>
 
 ### Tools <br>
-- Eclipse <br>
+- Eclipse/IntelliJ IDEA <br>
 - Git
 
 
