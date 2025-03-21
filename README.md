@@ -1,6 +1,6 @@
 ## Banking Web Application<br>
 
-A full-stack Banking Web Application developed using Java, java servlets, Oracle Database, and enhanced with JavaScript for interactivity on the frontend.<br>
+A full-stack Banking Web Application developed using Java, java servlets, Oracle Database, and enhanced with Html,CSS,JavaScript for interactivity on the frontend.<br>
 The application provides functionalities for user registration, login, account management, deposit, withdrawal, and transaction history tracking.<br>
 
 ##  Features<br>
